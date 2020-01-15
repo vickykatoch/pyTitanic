@@ -1,6 +1,6 @@
 titanic
 ==============================
-
+dvz.sep1974@yahoo.com
 Titanic Data Science
 
 Project Organization
